@@ -1,6 +1,9 @@
 # AngD001-Django-CMS-for-Windows-Base
 This is my boilerplate of Django-CMS for windows for my MP50-Project to create Medical Questionnaires.
 
+## To clone this code
+[https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository](url)
+
 ## Prequisits
 •	Install GitHub Desktop
 •	Windows Python 3.11.x from https://www.python.org/downloads/windows/. Install for all users in windows. Python  Virtual Environments use python 3.11. Later we try to upgrade to 3.12.
