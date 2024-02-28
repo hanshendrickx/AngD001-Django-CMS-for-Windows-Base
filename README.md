@@ -1,7 +1,10 @@
 # AngD001-Django-CMS-for-Windows-Base
 This is my boilerplate of Django-CMS for windows for my MP50-Project to create Medical Questionnaires.
 
-## To clone this code
+## Step 1 Install Windows GitHub Desktop
+[https://desktop.github.com/](url)
+
+## Step 2 To clone this code
 [https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository](url)
 
 ## Prequisits
