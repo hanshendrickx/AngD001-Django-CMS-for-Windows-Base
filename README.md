@@ -5,19 +5,20 @@ This is my boilerplate of Django-CMS for windows for my MP50-Project to create M
 [https://desktop.github.com/](url)
 
 ## Step 2 To clone this code via GitHub Desktop to envs\AngD001 or 002, up to you
-1 [https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository](url)
+1 [https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository](url) and in cmd copy paste next codes:
 
-2 cd MP50
+cd MP50
 
-3 pip install requirements.txt
+pip install requirements.txt
 
-4 python manage.py cms check
+python manage.py cms check
 
-5 make necessary corrections
+REM make necessary corrections
 
-6 cd backend
+cd backend
 
-7 black .
+black .
+
 
 
 
