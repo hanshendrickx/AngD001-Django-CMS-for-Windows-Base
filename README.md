@@ -4,8 +4,23 @@ This is my boilerplate of Django-CMS for windows for my MP50-Project to create M
 ## Step 1 Install Windows GitHub Desktop
 [https://desktop.github.com/](url)
 
-## Step 2 To clone this code
-[https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository](url)
+## Step 2 To clone this code via GitHub Desktop to envs\AngD001 or 002, up to you
+1 [https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository](url)
+
+2 cd MP50
+
+3 pip install requirements.txt
+
+4 python manage.py cms check
+
+5 make necessary corrections
+
+6 cd backend
+
+7 black .
+
+
+
 
 ## Prequisits: Install in addition all following packages
 •	Windows Python 3.11.x from https://www.python.org/downloads/windows/. Install for all users in windows. Python  Virtual Environments use python 3.11. Later we try to upgrade to 3.12.
